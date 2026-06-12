@@ -1,5 +1,7 @@
 # 💧 Water Consumption Analysis & Prediction
-
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 A Machine Learning project designed to analyze historical water consumption patterns and generate accurate predictions using predictive modeling techniques.
 
 ---
